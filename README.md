@@ -7,7 +7,9 @@ In online advertising, click-through rate (CTR) is a very important metric forev
 
 ## How-to-RUn
 
-1, Create a Python 3.6.7 Virtual Environment:
+0. Create `../data/`, `../data/featurized-data`, `../data/hashed_data`, `../data/selected_data`
+
+1. Create a Python 3.6.7 Virtual Environment:
 
 `python3 -m virtualenv .venv`
 
