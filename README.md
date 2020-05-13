@@ -1,11 +1,17 @@
 # NOVO BANCO - Data Science Challenge
 
 
-## Introduction:
+## Introduction
 
 In online advertising, click-through rate (CTR) is a very important metric forevaluating ad performance.  As a result, click prediction systems are essentialand widely used for sponsored search and real-time bidding.For this challenge, contesters were provided with data representing 11 daysof interactions between the different ads and its users.
 
-## How-to-RUn
+## Structure
+
+1. `0.1-vfernandes-sampling.ipynb`: Initial ingestion of data, sampling;
+2. `0.2-vfernandes-exploration.ipynb`: Deep dived data exploration and feature generation;
+3. `0.3-vfernandes-modelling.ipynb`: Modelling.
+
+## How-to-Run
 
 0. Create `../data/`, `../data/featurized-data`, `../data/hashed_data`, `../data/selected_data`
 
