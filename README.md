@@ -15,7 +15,7 @@ In online advertising, click-through rate (CTR) is a very important metric forev
 
 2. Install required packages:
 
-`pip install requirements.txt`
+`pip install -r requirements.txt`
 
 3. Add raw data at `../data/`
 
